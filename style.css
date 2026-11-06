@@ -1,0 +1,41 @@
+body{
+    background: linear-gradient(to bottom, #3f8f60, #1f3f2c);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    font-family: 'Nunito', sans-serif;
+}
+h1{
+    color:white;
+    text-align: center;
+    font-family: 'Nunito', sans-serif;
+    
+}
+p{
+    color:white;
+    font-family: 'Nunito', sans-serif;
+}
+button {
+    background-color: #2ca731;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-family: 'Nunito', sans-serif;
+}
+hr{
+    border: 1px solid rgba(249, 250, 249, 0.096);
+}
+table {
+  margin-left: auto;
+  margin-right: auto;
+  font-family: 'Nunito', sans-serif;
+}
+tr{
+    font-family: 'Nunito', sans-serif;
+}
+th{
+    font-family: 'Nunito', sans-serif;
+}
