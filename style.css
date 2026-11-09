@@ -12,6 +12,16 @@ h1{
     font-family: 'Nunito', sans-serif;
     
 }
+h2{
+    color:white;
+
+    font-family: 'Nunito', sans-serif;
+}
+h3{
+    color:white;
+
+    font-family: 'Nunito', sans-serif;
+}
 p{
     color:white;
     font-family: 'Nunito', sans-serif;
@@ -37,5 +47,9 @@ tr{
     font-family: 'Nunito', sans-serif;
 }
 th{
+    font-family: 'Nunito', sans-serif;
+}
+li{
+    color:white;
     font-family: 'Nunito', sans-serif;
 }
